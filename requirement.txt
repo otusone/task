@@ -1,0 +1,5 @@
+cherrypicker==0.4.0
+Django==4.1.1
+djangorestframework==3.14.0
+mysqlclient==2.1.1
+Pillow==9.2.0
